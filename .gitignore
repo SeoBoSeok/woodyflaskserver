@@ -1,0 +1,17 @@
+
+*.user
+
+*.pro
+
+*.pyc
+*.jpg
+*.png
+*.jpeg
+src
+src/*
+img
+img/*
+data
+data/*
+static
+static/*
